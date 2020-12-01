@@ -39,8 +39,8 @@ jobs:
           node Task/qqreads.js
         env:
           
-          PUSH_KEYS: ${{ secrets.PUSH_KEY }}
-          BARK_PUSHS: ${{ secrets.BARK_PUSH }}
-          BARK_SOUNDS: ${{ secrets.BARK_SOUND }}
-          DD_BOT_TOKENS: ${{ secrets.DD_BOT_TOKEN }}
-          DD_BOT_SECRETS: ${{ secrets.DD_BOT_SECRET }}
+          PUSH_KEY: ${{ secrets.PUSH_KEY }}
+          BARK_PUSH: ${{ secrets.BARK_PUSH }}
+          BARK_SOUND: ${{ secrets.BARK_SOUND }}
+          DD_BOT_TOKEN: ${{ secrets.DD_BOT_TOKEN }}
+          DD_BOT_SECRET: ${{ secrets.DD_BOT_SECRET }}
