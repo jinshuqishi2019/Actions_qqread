@@ -8,7 +8,7 @@
 
 | 名称                      |          内容           |
 | ------------------------ | ----------------------- |
-| `QQREAD_HEADER`          |   企鹅阅读 HEADER        |
+| `QQREAD_BODY`            |   企鹅阅读 BODY        |
 | `QQREAD_TIMEURL`         |   企鹅阅读时长 URL        |
 | `QQREAD_TIMEHD`          |   企鹅阅读时长 HEADER     |
 
